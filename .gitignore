@@ -1,0 +1,12 @@
+.metals
+.vscode
+.idea/
+target/
+.ammonite/
+project/
+assignment.sbt
+.bsp/
+*.zip
+*.csv
+*.dat
+.DS_store
